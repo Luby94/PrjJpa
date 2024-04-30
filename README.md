@@ -69,4 +69,23 @@
 ■ src/main/resources<br>
 &nbsp;• data.sql<br>
 <hr>
-4.29(월)
+4.29(월)<br>
+■ API test<br>
+&nbsp;&nbsp;- 새글추가<br>
+&nbsp;&nbsp;- 글수정<br>
+&nbsp;&nbsp;- 글삭제<br>
+&nbsp;&nbsp;- 트랜잭션 1,2<br>
+■ src/main/java/com/green/api<br>
+&nbsp;• ArticleApiController.java<br>
+■ src/main/resources/static<br>
+&nbsp;• apitest.html<br>
+■ src/main/java/com/green/service<br>
+&nbsp;• ArticleService.java<br>
+■ src/main/java/com/green/repository<br>
+&nbsp;• ArticleRepository.java<br>
+■ src/main/java/com/green/entity<br>
+&nbsp;• Article.java<br>
+■ src/main/resources/static<br>
+&nbsp;• index.html<br>
+<hr>
+4.30(화)<br>
